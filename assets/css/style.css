@@ -1,0 +1,28 @@
+.title {
+    color: blue;
+}
+
+#yellow_bg {
+    background-color: palegoldenrod;
+}
+
+#yellow_bg h2 {
+    color: black;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+#email {
+    background-color: goldenrod;
+}
+
+#github {
+    background-color: lightsteelblue;
+}
+
+#portfolio {
+    background-color: orange;
+}
